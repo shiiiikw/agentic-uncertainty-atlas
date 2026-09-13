@@ -25,3 +25,5 @@ Run `python3 -m http.server 4173` from this directory and open http://localhost:
 Explanations outside the PDF are editorial syntheses. Diagrams and numerical examples are illustrative. Reference placement follows citations in the survey; a reference may appear in multiple sections. Bibliographic verification is not a review of scientific findings.
 
 The PDF.js files in `assets/` retain their Mozilla Foundation copyright and Apache-2.0 license notices. The survey and cited works retain their respective authors’ rights.
+
+The locally hosted Manrope font is distributed under the SIL Open Font License 1.1; see `assets/fonts/OFL.txt`.
